@@ -128,11 +128,7 @@ spriteTypes = {
 		effectFile = "gfx/FX/buttonstate_nodowneffect.lua"
 	}
 
-	spriteType = {
-		name = "GFX_stateview_resource_transp_bg"
-		textureFile = "gfx/interface/stateview_resource_transp_bg.dds"
-		effectFile = "gfx/FX/buttonstate_nodowneffect.lua"
-	}
+
 
 	spriteType = {
 		name = "GFX_building_entry_stateview"
@@ -152,11 +148,7 @@ spriteTypes = {
 		effectFile = "gfx/FX/buttonstate_nodowneffect.lua"
 	}
 
-	spriteType = {
-		name = "GFX_resources_placeholder_bg"
-		textureFile = "gfx/interface/resources_placeholder.dds"
-		effectFile = "gfx/FX/buttonstate_nodowneffect.lua"
-	}
+
 
 	spriteType = {
 		name = "GFX_state_resistance"
