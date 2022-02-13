@@ -1,0 +1,26 @@
+state={
+	id=35
+	name="STATE_35"
+	provinces={
+	 17313 17314
+	}
+	manpower=50000
+	buildings_max_level_factor=1.000
+	state_category = rural
+	history=
+	{
+		owner = ENG
+		add_core_of = ENG
+		add_core_of = BEL
+		buildings = {
+			infrastructure = 10
+			air_base = 1
+			17314 = {
+				naval_base = 10
+			   }
+			}
+		victory_points = {
+			17314 5 
+		}
+	}
+}

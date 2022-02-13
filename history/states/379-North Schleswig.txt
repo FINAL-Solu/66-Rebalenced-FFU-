@@ -1,0 +1,26 @@
+state={
+	id=379
+	name="STATE_379"
+	provinces={
+		4900 7446 10523 13320 13323 13342 13345 17286 17288 
+	}
+	manpower=120000
+	buildings_max_level_factor=1.000
+	state_category=town
+	history={
+		owner = DEN
+		add_core_of = DEN
+		add_core_of = GER
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 2
+			dockyard = 2
+           }
+    1911.1.1.12 = {
+		buildings = {
+			industrial_complex = 0
+			dockyard = 2
+		}
+	  }
+     }
+}
