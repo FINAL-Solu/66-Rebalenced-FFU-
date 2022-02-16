@@ -21,19 +21,19 @@ country_event = {
 
 	option = {
 		name = germany.4.a
-		4 = {
+		71 = {
 			if = {
 				limit = { is_owned_by = AUS }
 				add_core_of = GER
 			}
 		}
-		152 = {
+		72 = {
 			if = {
 				limit = { is_owned_by = AUS }
 				add_core_of = GER
 			}
 		}
-		153 = {
+		73 = {
 			if = {
 				limit = { is_owned_by = AUS }
 				add_core_of = GER

@@ -28,7 +28,7 @@ set_technology = {
 	mobile_warfare = 1
 	trade_interdiction = 1
 	formation_flying = 1
-	synth_oil_experiments = 1
+	synth_oil_experiments = 2
 	fuel_silos = 1
 	fuel_refining = 1
 }
@@ -125,12 +125,7 @@ set_convoys = 200
 set_stability = 0.75
 set_war_support = 0.3
 
-#Trade
-create_import = {
-		resource = tungsten
-		factories = 1
-		exporter = SWE
-}
+
 
 1939.1.1 = {
 	add_named_threat = { threat = 40 name = 1939_bookmark_threat }

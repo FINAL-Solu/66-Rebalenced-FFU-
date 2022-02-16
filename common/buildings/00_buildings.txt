@@ -57,7 +57,7 @@ buildings = {
 
 	supply_node = {
 		show_on_map = 1
-		base_cost = 20000
+		base_cost = 5000
 		provincial = yes
 		disabled_in_dmz = yes
 		icon_frame = 15
@@ -68,8 +68,8 @@ buildings = {
 		allied_build = yes
 		always_shown = yes
 		infrastructure_construction_effect = yes
-	}	
-	
+	}
+
 	rail_way = {
 		base_cost = 170
 		per_level_extra_cost = 130
@@ -79,7 +79,7 @@ buildings = {
 		max_level = 1
 		infrastructure_construction_effect = yes
 	}
-	
+
 	naval_base = {
 		show_on_map = 1
 		show_on_map_meshes = 3
@@ -109,7 +109,7 @@ buildings = {
 		value = 1
 		infrastructure_construction_effect = yes
 	}
-	
+
 	coastal_bunker = {
 		show_on_map = 1
 		has_destroyed_mesh = yes
@@ -139,7 +139,7 @@ buildings = {
 		infrastructure_construction_effect = yes
 	}
 
-	
+
 	anti_air_building = {
 		show_on_map = 3
 		base_cost = 2500
@@ -164,7 +164,7 @@ buildings = {
 		shares_slots = yes
 		value = 5
 		infrastructure_construction_effect = yes
-		
+
 		show_modifier = yes
 		fuel_gain_from_states = 2.0 #per hour
 	}
@@ -178,7 +178,7 @@ buildings = {
 		value = 5
 		infrastructure_construction_effect = yes
 		fuel_silo = yes
-		
+
 		show_modifier = yes
 		max_fuel_building = 100.0 #k
 	}

@@ -2,14 +2,14 @@ state={
 	id=56
 	name="STATE_56"
 	provinces={
-		7018 20122 
+		7018 20122
 	}
 	manpower=18000
 	buildings_max_level_factor=1.000
 	state_category = enclave
 	history={
 		add_extra_state_shared_building_slots = 6
-		owner = YUG
+		owner = ITA
 		add_core_of = YUG
 		add_core_of = CRO
 		buildings = {
@@ -19,6 +19,6 @@ state={
 				naval_base = 8
 			}
 		}
-	
-	} 
+
+	}
 }

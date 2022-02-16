@@ -3,7 +3,7 @@ state={
 	id=83
 	name="STATE_83"
 	provinces={
-		587 1621 11136 11303 12944 17271 
+		587 1621 11136 11303 12944 17271
 	}
 	manpower=56988
 	buildings_max_level_factor=1.000
@@ -14,9 +14,8 @@ state={
 		add_core_of = SWE
 		buildings = {
 			}
-		1911.1.1.12 = {
-			owner = SWI
-			 
-		}
+
+
+
 		}
 }
