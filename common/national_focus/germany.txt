@@ -2765,19 +2765,19 @@ focus_tree = {
 			is_subject = no
 		}
 		bypass = {
-			42 = { is_demilitarized_zone = no }
-			51 = { is_demilitarized_zone = no }
+			89 = { is_demilitarized_zone = no }
+			90 = { is_demilitarized_zone = no }
 		}
 		ai_will_do = {
 			factor = 10
 		}
 		search_filters = { FOCUS_FILTER_POLITICAL }
 		completion_reward = {
-			42 = { set_demilitarized_zone = no }
-			51 = { set_demilitarized_zone = no }
+			89 = { set_demilitarized_zone = no }
+			90 = { set_demilitarized_zone = no }
 			custom_effect_tooltip = GER_rhineland_ultimatum
 			add_political_power = 120
-			army_experience = 5
+			army_experience = 50
 			add_named_threat = { threat = 5 name = GER_rhineland }
 			if = {
 				limit = { FRA = { is_subject = no } }
@@ -5960,8 +5960,8 @@ focus_tree = {
 			effect_tooltip = {
 				GER_remove_mefo_bills = yes
 			}
-			42 = { set_demilitarized_zone = no }
-			51 = { set_demilitarized_zone = no }
+			90 = { set_demilitarized_zone = no }
+			89 = { set_demilitarized_zone = no }
 			add_political_power = 120
 			add_named_threat = { threat = 5 name = GER_oppose_hitler }
 			country_event = { id = wtt_germany.1 }

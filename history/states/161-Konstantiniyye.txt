@@ -44,7 +44,7 @@ state={
 		4290 5
 		}
 		victory_points = {
-		19710 10 
+		19710 10
 		}
 		victory_points = {
 		19711 3
@@ -61,9 +61,6 @@ state={
 		victory_points = {
 		15793 1 #Çatalca
 		}
-		1911.1.1.12 = {
-			owner = SWI
-			 
-		}
+	
 	}
 }

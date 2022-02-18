@@ -11,46 +11,7 @@ set_convoys = 100
 #-------------------------------------------------------
 #					POLITICS & ARMY
 #-------------------------------------------------------
-create_country_leader={ name = "Lev Kamenev" desc=SOV_lev_kamenev_DESC picture="gfx/leaders/SOV_lev_kamenev.dds" expire="1935.1.1" ideology=marxism traits={  } }
 
-create_country_leader={ name = "Yakov Sverdlov" desc=SOV_yakov_sverdlov_DESC picture="gfx/leaders/SOV_yakov_sverdlov.dds" expire="1935.1.1" ideology=leninism traits={  } }
-create_country_leader={ name = "Nikolai Bukharin" desc=SOV_nikolai_bukharin_DESC picture="gfx/leaders/SOV_nikolai_bukharin.dds" expire="1935.1.1" ideology=stalinism traits={  } }
-create_country_leader={ name = "Vladimir Lenin" desc=SOV_vladimir_lenin_DESC picture="gfx/leaders/SOV/SOV_vladimir_lenin.dds" expire="1935.1.1" ideology=leninism traits={  } }
-create_corps_commander={  name = "Blücher" id=85002 portrait_path="gfx/generals/SOV_blucher.dds" traits={  old_guard } skill=1 }
-create_corps_commander={  name = "Budennij" id=85003 portrait_path="gfx/generals/SOV_budennij.dds" traits={ old_guard  } skill=1 }
-create_corps_commander={  name = "Kulik" id=85004 portrait_path="gfx/generals/SOV_kulik.dds" traits={ old_guard  } skill=1 }
-create_corps_commander={  name = "Shaposhnikov" id=85005 portrait_path="gfx/generals/SOV_shaposhnikov.dds" traits={   } skill=3 }
-create_corps_commander={  name = "Timoshenko S.K." id=85006 portrait_path="gfx/generals/SOV_timoshenko_sk.dds" traits={   } skill=3 }
-create_corps_commander={  name = "Voroshilov" id=85007 portrait_path="gfx/generals/SOV_voroshilov.dds" traits={ commando old_guard } skill=1 }
-create_corps_commander={  name = "Brusilov" id=85010 portrait_path="gfx/generals/SOV_brusilov.dds" traits={  old_guard } skill=3 }
-create_corps_commander={  name = "Budennyi" id=85011 portrait_path="gfx/generals/SOV_budennyi.dds" traits={  trickster } skill=3 }
-create_corps_commander={  name = "Frunze" id=85014 portrait_path="gfx/generals/SOV_frunze.dds" traits={   } skill=2 }
-create_corps_commander={  name = "Gay" id=85016 portrait_path="gfx/generals/SOV_gay.dds" traits={ trickster trait_engineer } skill=3 }
-create_corps_commander={  name = "Kotovsky" id=85022 portrait_path="gfx/generals/SOV_kotovsky.dds" traits={ panzer_leader  } skill=2 }
-create_corps_commander={  name = "Kutiakov" id=85024 portrait_path="gfx/generals/SOV_kutiakov.dds" traits={   } skill=2 }
-create_corps_commander={  name = "Kuybyshev" id=85025 portrait_path="gfx/generals/SOV_kuybyshev.dds" traits={   } skill=2 }
-create_corps_commander={  name = "Riabyshev" id=85036 portrait_path="gfx/generals/SOV_riabyshev.dds" traits={   } skill=1 }
-create_corps_commander={  name = "Stalin, I" id=85039 portrait_path="gfx/generals/SOV_stalin__i.dds" traits={   } skill=2 }
-create_corps_commander={  name = "Trotsky" id=85042 portrait_path="gfx/generals/SOV_trotsky.dds" traits={   } skill=4 }
-create_corps_commander={  name = "Tyuleniev" id=85043 portrait_path="gfx/generals/SOV_tyuleniev.dds" traits={   } skill=2 }
-create_corps_commander={  name = "Zayonchkovsky" id=85049 portrait_path="gfx/generals/SOV_zayonchkovsky.dds" traits={  old_guard } skill=2 }
-create_corps_commander={  name = "Scheidemann" id=85050 portrait_path="gfx/generals/SOV_scheidemann.dds" traits={  old_guard } skill=2 }
-create_corps_commander={  name = "Schuvaev" id=85054 portrait_path="gfx/generals/SOV_schuvaev.dds" traits={ old_guard  } skill=2 }
-create_corps_commander={  name = "Antonov-Ovseenko" id=85057 portrait_path="gfx/generals/SOV_antonov_ovseenko.dds" traits={   } skill=2 }
-create_corps_commander={  name = "Bzhishkyan, G" id=85068 portrait_path="gfx/generals/SOV_bzhishkyan__g.dds" traits={ trickster trait_engineer } skill=3 }
-create_corps_commander={  name = "Budyonny, S" id=85069 portrait_path="gfx/generals/SOV_budyonny__s.dds" traits={   } skill=3 }
-create_corps_commander={  name = "Kork" id=85070 portrait_path="gfx/generals/SOV_kork.dds" traits={ trickster old_guard } skill=1 }
-create_corps_commander={  name = "Uborevich, I" id=85072 portrait_path="gfx/generals/SOV_uborevich__i.dds" traits={   } skill=1 }
-create_corps_commander={  name = "Vazetis" id=85073 portrait_path="gfx/generals/SOV_vazetis.dds" traits={   } skill=1 }
-create_corps_commander={  name = "Unzherov" id=85074 portrait_path="gfx/generals/SOV_unzherov.dds" traits={   } skill=1 }
-create_field_marshal={  name = "Yegorov, A.I." id=85067 portrait_path="gfx/fieldmarshal/SOV_yegorov__ai.dds" traits={   } skill=3 }
-create_field_marshal={  name = "Tukhachevsky, M." id=85071 portrait_path="gfx/fieldmarshal/SOV_tukhachevsky__m.dds" traits={ offensive_doctrine  } skill=2 }
-create_navy_leader={  name = "Maximov" id=85055 portrait_path="gfx/admiral/SOV_maximov.dds" traits={ old_guard  } skill=2 }
-create_navy_leader={  name = "Nemits" id=85056 portrait_path="gfx/admiral/SOV_nemits.dds" traits={   } skill=1 }
-create_navy_leader={  name = "Kireev" id=85075 portrait_path="gfx/admiral/SOV_kireev.dds" traits={   } skill=1 }
-
-1910.1.1 = {
-	oob = "SOV_1910"
 
 	#-------------------------------------------------------
 	#							NF
@@ -118,9 +79,9 @@ create_navy_leader={  name = "Kireev" id=85075 portrait_path="gfx/admiral/SOV_ki
 	}
 
 	add_ideas = {
-	}	
+	}
 }
-	
+
 create_equipment_variant = {
 		name = "Pre-1905 Destroyer"
 		type = ship_hull_light_1
@@ -154,7 +115,7 @@ create_equipment_variant = {
 			rear_1_custom_slot = ship_light_battery_1
 		}
 	}
-	
+
 create_equipment_variant = {
 		name = "Light Cruiser 1890"
 		type = ship_hull_cruiser_1
@@ -190,9 +151,9 @@ create_equipment_variant = {
 			rear_1_custom_slot = empty
 		}
 	}
-	
+
 create_equipment_variant = {
-		name = "Armored Crusiers" # represents Armored Crusiers 
+		name = "Armored Crusiers" # represents Armored Crusiers
 		type = ship_hull_cruiser_2
 		name_group = RUS_CL_HISTORICAL
 		parent_version = 0
@@ -224,20 +185,20 @@ create_equipment_variant = {
 			fixed_ship_armor_slot = ship_armor_bc_1
 			front_1_custom_slot = ship_heavy_battery_1
 			mid_1_custom_slot = ship_secondaries_1
-			mid_2_custom_slot = empty 
+			mid_2_custom_slot = empty
 			rear_1_custom_slot = ship_airplane_launcher_1
 		}
 	}
-	
+
 create_equipment_variant={ name="Pre-Dreadnought" name_group = RUS_BB_HISTORICAL type=ship_hull_heavy_1 parent_version = 0 obsolete=yes
         modules = {
-		    fixed_ship_battery_slot = ship_heavy_battery_1 
-            fixed_ship_fire_control_system_slot = ship_fire_control_system_0 
+		    fixed_ship_battery_slot = ship_heavy_battery_1
+            fixed_ship_fire_control_system_slot = ship_fire_control_system_0
             fixed_ship_radar_slot = empty fixed_ship_engine_slot = heavy_ship_engine_1
-            fixed_ship_secondaries_slot = ship_secondaries_1 
-            fixed_ship_armor_slot = ship_armor_bb_1 
-            front_1_custom_slot = ship_heavy_battery_1  
-            mid_1_custom_slot = ship_secondaries_1 
+            fixed_ship_secondaries_slot = ship_secondaries_1
+            fixed_ship_armor_slot = ship_armor_bb_1
+            front_1_custom_slot = ship_heavy_battery_1
+            mid_1_custom_slot = ship_secondaries_1
             rear_1_custom_slot = empty } }
 
 create_equipment_variant={ name="Semi-Dreadnought" name_group = RUS_BB_HISTORICAL type=ship_hull_heavy_2 parent_version = 0
@@ -252,17 +213,17 @@ create_equipment_variant={ name="Semi-Dreadnought" name_group = RUS_BB_HISTORICA
 			mid_1_custom_slot = ship_secondaries_1
 			mid_2_custom_slot = ship_secondaries_1
 			rear_1_custom_slot = empty } }
-		
-		
+
+
 create_equipment_variant={ name="Dreadnought" name_group = RUS_BB_HISTORICAL type= ship_hull_super_heavy_1 parent_version = 0
         modules = {fixed_ship_battery_slot = ship_super_heavy_battery_1
-          fixed_ship_fire_control_system_slot = ship_fire_control_system_0 
-          fixed_ship_radar_slot = empty 
-          fixed_ship_engine_slot = heavy_ship_engine_2 
-          fixed_ship_secondaries_slot = ship_secondaries_1 
+          fixed_ship_fire_control_system_slot = ship_fire_control_system_0
+          fixed_ship_radar_slot = empty
+          fixed_ship_engine_slot = heavy_ship_engine_2
+          fixed_ship_secondaries_slot = ship_secondaries_1
           fixed_ship_armor_slot = ship_armor_shbb
-          front_1_custom_slot = ship_super_heavy_battery_1 
-          mid_1_custom_slot = ship_secondaries_1 
+          front_1_custom_slot = ship_super_heavy_battery_1
+          mid_1_custom_slot = ship_secondaries_1
 		  mid_2_custom_slot = ship_secondaries_1
           rear_1_custom_slot = ship_super_heavy_battery_1 } }
 }

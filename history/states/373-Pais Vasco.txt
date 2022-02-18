@@ -2,7 +2,7 @@ state={
 	id=373
 	name="STATE_373"
 	provinces={
-		738 4243 9783 10297 11365 11437 15610 15625 15656 
+		738 4243 9783 10297 11365 11437 15610 15625 15656
 	}
 	manpower=928094
 	buildings_max_level_factor=1.000
@@ -18,9 +18,6 @@ state={
 			industrial_complex = 1
 			arms_factory = 1
 		}
-		1911.1.1.12 = {
-			owner = SWI
-			 
-		}
+
         }
 }

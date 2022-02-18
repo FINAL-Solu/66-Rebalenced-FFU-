@@ -3,7 +3,7 @@ state={
 	id=313
 	name="STATE_313"
 	provinces={
-		521 1274 2043 2971 4145 5459 6446 11654 11655 11656 11657 11682 11724 
+		521 1274 2043 2971 4145 5459 6446 11654 11655 11656 11657 11682 11724
 	}
 	manpower=700000
 	buildings_max_level_factor=1.000
@@ -12,9 +12,6 @@ state={
 		add_core_of = SOV
 		buildings = {
 			infrastructure = 1 }
-		1911.1.1.12 = {
-			owner = SWI
-			 
-		}
+	
 	}
 }

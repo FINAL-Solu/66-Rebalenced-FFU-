@@ -13,20 +13,22 @@ ideas = {
 			removal_cost = -1
 
 			modifier = {
-				consumer_goods_factor = 0.50
+				conscription = -1
+				min_export = 1
+				consumer_goods_factor = 1
 				production_speed_industrial_complex_factor = -0.5
 				production_speed_arms_factory_factor = -0.5
 				production_speed_dockyard_factor = -0.5
 				conversion_cost_civ_to_mil_factor = 0.5
 				conversion_cost_mil_to_civ_factor = 0.5
 				generate_wargoal_tension = 1.00
-				join_faction_tension = 0.20
-				lend_lease_tension = 0.50
-				send_volunteers_tension = 0.20
-				guarantee_tension = 0.75
+				join_faction_tension = 1
+				lend_lease_tension = 1
+				send_volunteers_tension = 1
+				guarantee_tension = 1
 				max_fuel_factor = -0.45
 				fuel_gain_factor = -0.6
-				agency_upgrade_time = 1.0
+				agency_upgrade_time = 10
 			}
 
 			allowed_to_remove = {
@@ -142,7 +144,7 @@ ideas = {
 			removal_cost = -1
 
 			modifier = {
-				consumer_goods_factor = 0.3
+				consumer_goods_factor = 0.25
 				production_speed_industrial_complex_factor = -0.1
 				production_speed_arms_factory_factor = -0.1
 				fuel_gain_factor = -0.25
@@ -568,7 +570,7 @@ ideas = {
 					limit = {
 						tag = POL
 						85 = { is_demilitarized_zone = no }
-						has_civil_war = no 
+						has_civil_war = no
 					}
 					85 = {
 						if = {
@@ -580,7 +582,7 @@ ideas = {
 					}
 				}
 			}
-			
+
 			cancel_if_invalid = no
 		}
 
