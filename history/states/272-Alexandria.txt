@@ -4,12 +4,12 @@ state={
 	name="STATE_272"
 	resources={
 		oil=48.000
-                rubber=80.000
+    rubber=80.000
 	}
 
 	history={
-		owner = EGY
-                add_core_of = EGY
+		owner = ENG
+    add_core_of = EGY
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 2
@@ -19,25 +19,25 @@ state={
 			}
 		}
 		victory_points = {
-			20328 20 
+			20328 20
 		}
 		victory_points = {
-			7391 1 
+			7391 1
 		}
 		victory_points = {
-			3968 1 
+			3968 1
 		}
 		victory_points = {
-			4285 1 
+			4285 1
 		}
 		victory_points = {
-			3214 1 
+			3214 1
 		}
 
 	}
 
 	provinces={
-		679 900 3127 3214 3968 5069 5456 8152 8757 16844 16890 20328 
+		679 900 3127 3214 3968 5069 5456 8152 8757 16844 16890 20328
 	}
 	manpower=3859239
 	buildings_max_level_factor=1.000

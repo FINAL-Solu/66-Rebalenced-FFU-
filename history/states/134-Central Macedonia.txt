@@ -4,7 +4,7 @@ state={
 	name="STATE_134"
 
 	history={
-		owner = TUR
+		owner = GRE
 		add_core_of = GRE
 		add_claim_by = BUL
 		buildings = {
@@ -37,14 +37,11 @@ state={
         victory_points = {
 		16077 1
 		}
-		1911.1.1.12 = {
-			owner = SWI
-			 
-		}
+
 	}
 
 	provinces={
-		1445 1852 2289 2649 4100 4342 4852 4880 5333 6384 6983 7801 8132 9165 10064 10559 16012 16052 16079 16099 16109 16110 16121 16157 
+		1445 1852 2289 2649 4100 4342 4852 4880 5333 6384 6983 7801 8132 9165 10064 10559 16012 16052 16079 16099 16109 16110 16121 16157
 	}
 	manpower=1155700
 	buildings_max_level_factor=1.000

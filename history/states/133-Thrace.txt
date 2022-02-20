@@ -3,7 +3,7 @@ state={
 	id=133
 	name="STATE_133"
 	provinces={
-		270 1492 3834 4303 6765 7160 8136 8501 9050 9418 11345 11346 15901 15921 15929 15940 15954 15980 15985 
+		270 1492 3834 4303 6765 7160 8136 8501 9050 9418 11345 11346 15901 15921 15929 15940 15954 15980 15985
 	}
 	manpower=382500
 	buildings_max_level_factor=1.000
@@ -12,7 +12,7 @@ state={
 		chromium=5
 		}
 	history={
-		owner = TUR
+		owner = GRE
 		add_core_of = BUL
 		add_core_of=GRE
 		buildings={
@@ -21,9 +21,6 @@ state={
         victory_points = {
 		270 5
 		}
-		1911.1.1.12 = {
-			owner = SWI
-			 
-		}
+
 	}
 }

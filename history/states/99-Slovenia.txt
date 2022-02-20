@@ -13,8 +13,8 @@ state={
 	}
 	history =
 	{
-		owner = YOG
-		add_core_of = YOG
+		owner = YUG
+		add_core_of = YUG
 		add_core_of = CRO
 		buildings = {
 			infrastructure = 6

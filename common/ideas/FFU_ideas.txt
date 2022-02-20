@@ -26,26 +26,9 @@ ideas = {
 				conscription = -1.0
 			}
 		}
-		naval_race = {
-			cancel = {
-				has_war = yes
-			}
 
-			removal_cost = -1
 
-			picture = MTG_naval_treaty_adherent
-
-			modifier = {
-				production_speed_dockyard_factor = 3.0
-				industrial_capacity_dockyard = 1.0
-			}
 		}
-		chistmas_truce = {
-			picture = chistmas_truce-102183
-			modifier = {
-				breakthrough_factor = -1.00
-                army_attack_factor = -1.00
-			}
-		}
+
 	}
 }

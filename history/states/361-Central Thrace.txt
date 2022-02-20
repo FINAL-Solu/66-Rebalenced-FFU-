@@ -9,9 +9,9 @@ state={
 	state_category=rural
 	history={
 		victory_points={ 11774 1 }
-		owner = TUR
+		owner = GRE
 		add_core_of = BUL
-		add_core_of=GRE
+		add_core_of = GRE
 		buildings={
 			infrastructure=2
 		}
